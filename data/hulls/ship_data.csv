@@ -1,7 +1,7 @@
 name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,c/s,c/f,f/s,f/f,crew/s,crew/f,hints,tags,rarity,breakProb,minPieces,maxPieces,travel drive,number
 Snow,arctic_snow,,High Tech,flarelauncher_fighter,,750,100,80,,10,0,,200,400,350,90,180,30,NONE,,0,0,0,,,1,1,,,,,,,,,,,,,,,,,,,,,,0,,,,104
-Wasp,arctic_sleet,,High Tech,,,100,10,500,,100,0,,325,500,450,180,360,10,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,102
-Piranha,arctic_hail,,High Tech,,,500,75,200,,100,0,,150,200,200,40,120,30,NONE,,0,0,0,,,2,2,,,,,,,,,,,,,,,,,,,,,,0,,,,105
+Sleet,arctic_sleet,,High Tech,,,100,10,500,,100,0,,325,500,450,180,360,10,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,102
+Hail,arctic_hail,,High Tech,,,500,75,200,,100,0,,150,200,200,40,120,30,NONE,,0,0,0,,,2,2,,,,,,,,,,,,,,,,,,,,,,0,,,,105
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Icicle,arctic_icicle,Frigate,High Tech,highenergyfocus,5,1750,300,2100,1750,140,55,,120,110,90,60,90,200,OMNI,,210,0.4,1,,,25,50,40,25,1,25,10,9000,8,10,240,0.25,4,4,,,,,,,,"lowtech_bp, merc, ind",,0.4,2,2,,204
 Snowball,arctic_snowball,Heavy Frigate,High Tech,burndrive,8,3000,600,2000,1875,150,60,,135,120,100,60,90,300,PHASE,damper,,,,,,30,50,50,30,1,30,10,30000,8,10,300,0.25,6,6,8,50,,,,,,"rare_bp, merc, ind, special_allows_system_use, system_allows_special_use",0.75,0.4,2,2,,201.5
@@ -30,4 +30,4 @@ Glacier,arctic_glacier,Superfreighter,High Tech,flarelauncher,7,8000,250,4000,50
 Cooler,arctic_cooler,Tanker,High Tech,flarelauncher,12,10000,1200,7000,7500,300,95,,50,15,10,4,4,4000,OMNI,,180,0.5,1.2,,,50,100,200,3000,6,500,6,80000,2,20,720,0.25,10,10,,,300,500,,,"CIVILIAN, TANKER","rare_bp, merc, ind",,0.75,3,5,,506
 Arcticus,arctic_arcticus,Dreadnought,High Tech,fortressshield,35,40000,10000,30000,12500,500,340,,35,15,15,4,4,10000,OMNI,,360,0.5,0.8,,,4000,6000,1000,800,20,40,6,700000,3,12,1200,0.25,60,60,,,,,,,NEVER_DODGE_MISSILES,rare_bp,,0.2,2,2,,511
 Avalanche,arctic_avalanche,Battleship,High Tech,burndrive,28,20000,1750,17000,15000,600,380,,25,10,10,4,4,3500,FRONT,,180,0.4,1,,,750,1500,300,400,15,27,7,350000,3,12,720,0.25,40,40,,,,,,,,"rare_bp, merc",,0.4,2,4,,500
-Legion,arctic_blizzard,Battlecarrier,High Tech,burndrive,28,18000,1650,12000,12500,500,300,4,30,15,15,6,6,3500,FRONT,,180,0.4,1,,,700,1500,300,300,15,20,7,375000,3,12,720,0.25,40,40,,,,,,,"CARRIER, COMBAT, NO_AUTO_ESCORT","rare_bp, merc",,0.4,2,4,,507
+Blizzard,arctic_blizzard,Battlecarrier,High Tech,burndrive,28,18000,1650,12000,12500,500,300,4,30,15,15,6,6,3500,FRONT,,180,0.4,1,,,700,1500,300,300,15,20,7,375000,3,12,720,0.25,40,40,,,,,,,"CARRIER, COMBAT, NO_AUTO_ESCORT","rare_bp, merc",,0.4,2,4,,507
