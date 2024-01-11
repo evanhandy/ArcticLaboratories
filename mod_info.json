@@ -1,13 +1,13 @@
 {
-    "id":"author_modname", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
-	"name":"Template Mod", # Displayed to the player
-	"author":"Wisp",
+    "id":"nefja_arcticlaboratories", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
+	"name":"Arctic Laboratories", # Displayed to the player
+	"author":"Nefja",
     "utility":"false",
-	"version":"1.0.0",
+	"version":"0.0.1",
 	"description":"Starsector IntelliJ template.",
     "gameVersion": "0.96a-RC10", 
-  	"jars":["jars/Template.jar"],
-  	"modPlugin":"author.modname.TemplateModPlugin",
+  	"jars":["jars/ArcticLaboratories.jar"],
+  	"modPlugin":"nefja.arcticlaboratories.TemplateModPlugin",
 	  	"dependencies": [
         #{
         #    "id": "lw_lazylib",

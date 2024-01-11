@@ -1,0 +1,106 @@
+{
+  "hullName": "Refrigerator",
+  "hullId": "arctic_refrigerator",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/arctic_refrigerator.png",
+  "style": "HIGH_TECH",
+  "height": 100,
+  "width": 80,
+  "center": [40, 40],
+  "collisionRadius": 80,
+  "shieldCenter": [2, 0],
+  "shieldRadius": 75,
+  "viewOffset": 0,
+  "builtInMods": [
+    "rugged",
+    "shielded_holds"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS 001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": 90,
+      "locations": [-11, 20]
+    },
+    {
+      "id": "WS 002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": -90,
+      "locations": [-11, -20]
+    },
+    {
+      "id": "WS 003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": 30,
+      "locations": [41, 11]
+    },
+    {
+      "id": "WS 004",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 290,
+      "angle": -30,
+      "locations": [36, -16]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-41, 31],
+      "length": 48,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-39, 24],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-39, -24],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-41, -31],
+      "length": 48,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    49, 16,
+    40, 22,
+    47, 28,
+    42, 34,
+    2, 22,
+    1, 35,
+    -36, 36,
+    -27, 0,
+    -38, -35,
+    2, -34,
+    2, -22,
+    31, -30,
+    49, -22,
+    57, 0
+  ]
+}

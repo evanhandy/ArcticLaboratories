@@ -1,0 +1,121 @@
+{
+  "hullName": "Solstice",
+  "hullId": "arctic_solstice",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/arctic_solstice.png",
+  "style": "HIGH_TECH",
+  "height": 200,
+  "width": 120,
+  "center": [60, 99],
+  "collisionRadius": 121,
+  "shieldCenter": [1, 0],
+  "shieldRadius": 120,
+  "viewOffset": 0,
+  "builtInMods": [
+    "civgrade"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS 001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 200,
+      "angle": 60,
+      "locations": [76, 29]
+    },
+    {
+      "id": "WS 002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 200,
+      "angle": -60,
+      "locations": [75, -29]
+    },
+    {
+      "id": "WS 003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 180,
+      "angle": 110,
+      "locations": [-27, 37]
+    },
+    {
+      "id": "WS 004",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 180,
+      "angle": 250,
+      "locations": [-27, -38]
+    },
+    {
+      "id": "WS 005",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 30,
+      "angle": 150,
+      "locations": [-56, 39]
+    },
+    {
+      "id": "WS 006",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 30,
+      "angle": 210,
+      "locations": [-56, -38]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-92, 12],
+      "length": 92,
+      "width": 24,
+      "angle": 180,
+      "contrailSize": 92,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-92, -12],
+      "length": 92,
+      "width": 24,
+      "angle": 180,
+      "contrailSize": 92,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-90, 20],
+      "length": 32,
+      "width": 8,
+      "angle": 170,
+      "contrailSize": 32,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-90, -19],
+      "length": 32,
+      "width": 8,
+      "angle": 190,
+      "contrailSize": 32,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    91, 16,
+    91, -16,
+    67, -38,
+    2, -38,
+    -8, -28,
+    -19, -51,
+    -88, -19,
+    -88, 19,
+    -19, 51,
+    -8, 28,
+    2, 39,
+    67, 39
+  ]
+}

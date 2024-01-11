@@ -1,0 +1,161 @@
+{
+  "hullName": "Glacier",
+  "hullId": "arctic_glacier",
+  "hullSize": "CAPITAL_SHIP",
+  "spriteName": "graphics/ships/arctic_glacier.png",
+  "style": "HIGH_TECH",
+  "height": 400,
+  "width": 200,
+  "center": [99, 108],
+  "collisionRadius": 330,
+  "shieldCenter": [84, 0],
+  "shieldRadius": 230,
+  "viewOffset": 0,
+  "builtInMods": [
+    "civgrade"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS 001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": 100,
+      "locations": [-27, 78]
+    },
+    {
+      "id": "WS 002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": 260,
+      "locations": [-27, -78]
+    },
+    {
+      "id": "WS 003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": 0,
+      "locations": [241, 0]
+    },
+    {
+      "id": "WS 005",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 0,
+      "locations": [265, 0]
+    },
+    {
+      "id": "WS 006",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 140,
+      "locations": [-88, 54]
+    },
+    {
+      "id": "WS 007",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 220,
+      "locations": [-88, -54]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-99, 44],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-101, 33],
+      "length": 48,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-104, 17],
+      "length": 48,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-104, 0],
+      "length": 96,
+      "width": 24,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-104, -17],
+      "length": 48,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-101, -32],
+      "length": 48,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-99, -44],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    271, 10,
+    249, 59,
+    221, 64,
+    218, 70,
+    23, 71,
+    16, 61,
+    -14, 73,
+    -18, 89,
+    -39, 85,
+    -42, 60,
+    -57, 53,
+    -81, 58,
+    -99, 37,
+    -103, 0,
+    -100, -37,
+    -82, -57,
+    -58, -52,
+    -43, -60,
+    -40, -83,
+    -18, -88,
+    -14, -69,
+    18, -60,
+    22, -70,
+    219, -71,
+    222, -62,
+    249, -58,
+    271, -7,
+    265, 1
+  ]
+}
