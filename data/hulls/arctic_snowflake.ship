@@ -2,7 +2,7 @@
   "hullName": "Snowflake",
   "hullId": "arctic_snowflake",
   "hullSize": "FRIGATE",
-  "spriteName": "graphics/ships/brawler.png",
+  "spriteName": "graphics/ships/arctic_snowflake.png",
   "style": "HIGH_TECH",
   "height": 54,
   "width": 110,

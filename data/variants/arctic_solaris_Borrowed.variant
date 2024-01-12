@@ -1,0 +1,25 @@
+{
+    "displayName": "Borrowed",
+    "fluxCapacitors": 15,
+    "fluxVents": 3,
+    "goalVariant": true,
+    "hullId": "arctic_solaris",
+    "hullMods": [
+        "insulatedengine",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "arctic_solaris_Borrowed",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

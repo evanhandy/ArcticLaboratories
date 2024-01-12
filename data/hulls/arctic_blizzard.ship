@@ -33,7 +33,7 @@
     {
       "id": "WS 002",
       "size": "MEDIUM",
-      "type": "COMPOSITE",
+      "type": "SYNERGY",
       "mount": "TURRET",
       "arc": 180,
       "angle": 55,
@@ -42,7 +42,7 @@
     {
       "id": "WS 003",
       "size": "MEDIUM",
-      "type": "COMPOSITE",
+      "type": "SYNERGY",
       "mount": "TURRET",
       "arc": 180,
       "angle": -55,
@@ -51,7 +51,7 @@
     {
       "id": "WS 004",
       "size": "MEDIUM",
-      "type": "COMPOSITE",
+      "type": "SYNERGY",
       "mount": "TURRET",
       "arc": 160,
       "angle": 20,
@@ -60,7 +60,7 @@
     {
       "id": "WS 005",
       "size": "MEDIUM",
-      "type": "COMPOSITE",
+      "type": "SYNERGY",
       "mount": "TURRET",
       "arc": 180,
       "angle": 0,
@@ -69,7 +69,7 @@
     {
       "id": "WS 007",
       "size": "MEDIUM",
-      "type": "COMPOSITE",
+      "type": "SYNERGY",
       "mount": "TURRET",
       "arc": 160,
       "angle": -20,

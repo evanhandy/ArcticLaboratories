@@ -1,0 +1,41 @@
+{
+    "displayName": "Borrowed",
+    "fluxCapacitors": 10,
+    "fluxVents": 19,
+    "goalVariant": true,
+    "hullId": "arctic_winter",
+    "hullMods": [
+        "hardenedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "arctic_winter_Borrowed",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "pdlaser",
+                "WS 004": "pdlaser",
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 001": "pdlaser",
+                "WS 010": "pdlaser",
+            }
+        },
+    ],
+    "wings": [
+        "piranha_wing",
+        "broadsword_wing",
+        "wasp_wing",
+    ],
+    "modules": [],
+}

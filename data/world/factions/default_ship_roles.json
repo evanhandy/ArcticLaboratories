@@ -1,0 +1,150 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+	"combatSmallForSmallFleet":{
+		"arctic_snowflake_Borrowed":10,
+
+		"arctic_refrigerator_Borrowed":10,
+
+		"arctic_icicle_Borrowed":10,
+		
+		"fallback":{"combatSmall":1},
+	},
+	"combatSmall":{
+		"arctic_snowflake_Borrowed":10,
+
+		"arctic_refrigerator_Borrowed":10,
+
+		"arctic_icicle_Borrowed":10,
+
+		"arctic_snowball_Borrowed":10,
+		
+		"fallback":{"combatMedium":0.5},
+	},
+	"combatMedium":{
+		"arctic_frost_Borrowed":10,
+
+		"arctic_snowplow_Borrowed":10,
+		
+		"fallback":{"combatSmall":1},
+	},
+	"combatLarge":{
+		"arctic_borealis_Borrowed":10,
+
+		"arctic_gyrfalcon_Borrowed":10,
+
+		"arctic_tundra_Borrowed":10,
+		
+		"fallback":{"combatMedium":1},
+	},
+	"combatCapital":{
+		"arctic_avalanche_Borrowed":10,
+
+		"arctic_arcticus_Borrowed":10,
+		
+		"fallback":{"combatLarge":1},
+	},
+	
+	
+	# hybrid ships with good combat and cargo capacity
+	"combatFreighterSmall":{
+		"arctic_refrigerator_Borrowed":10,
+		"fallback":{"freighterSmall":1},
+	},
+	"combatFreighterMedium":{
+		"arctic_freezer_Borrowed":10,
+		"fallback":{"combatFreighterSmall":1},
+	},
+	"combatFreighterLarge":{
+		"arctic_northern_Borrowed":10,
+		"fallback":{"combatFreighterMedium":1},
+	},
+	
+	"civilianRandom":{
+		"arctic_snowdrift_Borrowed":10,
+		"arctic_mug_Borrowed":10,
+	},
+
+	# carriers
+	"carrierSmall":{
+		"arctic_snowhawk_Borrowed":10,
+		
+		"fallback":{"carrierMedium":0.5},
+		"fallback2":{"carrierLarge":0.25},
+	},
+	"carrierMedium":{
+		"arctic_winter_Borrowed":10,
+		"fallback":{"carrierSmall":1},
+		"fallback2":{"carrierLarge":0.5},
+	},
+	"carrierLarge":{
+		"arctic_blizzard_Borrowed":10,
+		
+		"fallback":{"carrierMedium":1},
+		"fallback2":{"carrierSmall":1},
+	},
+
+	# freighters and such
+	"freighterSmall":{
+		"arctic_solaris_Borrowed":10,
+		"fallback":{"freighterMedium":0.5},
+		"fallback2":{"freighterLarge":0.25},
+	},
+	"freighterMedium":{
+		"arctic_polaris_Borrowed":10,
+		"fallback":{"freighterSmall":1},
+		"fallback2":{"freighterLarge":0.5},
+	},
+	"freighterLarge":{
+		"arctic_glacier_Borrowed":10,
+		"fallback":{"freighterMedium":1},
+		"fallback2":{"freighterSmall":1},
+	},
+	
+	"tankerSmall":{
+		"arctic_mug_Borrowed":10,
+		"fallback":{"tankerMedium":0.5},
+		"fallback2":{"tankerLarge":0.25},
+	},
+	"tankerMedium":{
+		"arctic_thermos_Borrowed":10,
+		"fallback":{"tankerSmall":1},
+		"fallback2":{"tankerLarge":0.5},
+	},
+	"tankerLarge":{
+		"arctic_cooler_Borrowed":10,
+		"fallback":{"tankerMedium":1},
+		"fallback2":{"tankerSmall":1},
+	},
+	
+	"personnelSmall":{
+		"arctic_snowdrift_Borrowed":10,
+		"fallback":{"personnelMedium":0.5},
+		"fallback2":{"personnelLarge":0.25},
+	},
+	"personnelMedium":{
+		"arctic_snowfall_Borrowed":10,
+		"arctic_solstice_Borrowed":1,
+		"fallback":{"personnelSmall":1},
+		"fallback2":{"personnelLarge":0.5},
+	},
+	"personnelLarge":{
+		"fallback":{"personnelMedium":1},
+		"fallback2":{"personnelSmall":1},
+	},
+	
+	"linerSmall":{
+		"arctic_snowdrift_Borrowed":10,
+		"fallback":{"linerMedium":0.5},
+		"fallback2":{"linerLarge":0.25},
+	},
+	"linerMedium":{
+		"arctic_solstice_Borrowed":10,
+		"fallback":{"linerSmall":1},
+		"fallback2":{"linerLarge":0.5},
+	},
+	"linerLarge":{
+		"fallback":{"linerMedium":1},
+		"fallback2":{"linerSmall":1},
+	},
+}

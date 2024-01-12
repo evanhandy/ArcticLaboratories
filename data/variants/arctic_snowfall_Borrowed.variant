@@ -1,0 +1,30 @@
+{
+    "displayName": "Borrowed",
+    "fluxCapacitors": 2,
+    "fluxVents": 19,
+    "goalVariant": true,
+    "hullId": "arctic_snowfall",
+    "hullMods": [
+        "auxiliarythrusters",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "arctic_snowfall_Borrowed",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "pdlaser",
+                "WS 004": "pdlaser",
+                "WS 005": "pdlaser",
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 001": "pdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

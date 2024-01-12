@@ -1,0 +1,28 @@
+{
+    "displayName": "Borrowed",
+    "fluxCapacitors": 13,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "arctic_thermos",
+    "hullMods": [
+        "insulatedengine",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "arctic_thermos_Borrowed",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "pdlaser",
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 001": "pdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

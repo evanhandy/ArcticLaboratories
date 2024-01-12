@@ -1,0 +1,38 @@
+{
+    "displayName": "Borrowed",
+    "fluxCapacitors": 12,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "arctic_cooler",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "insulatedengine",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "arctic_cooler_Borrowed",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "heavyburst",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "lrpdlaser",
+                "WS 007": "lrpdlaser",
+                "WS 004": "lrpdlaser",
+                "WS 005": "lrpdlaser",
+                "WS 002": "lrpdlaser",
+                "WS 001": "lrpdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -7,7 +7,7 @@
 	"description":"Starsector IntelliJ template.",
     "gameVersion": "0.96a-RC10", 
   	"jars":["jars/ArcticLaboratories.jar"],
-  	"modPlugin":"nefja.arcticlaboratories.TemplateModPlugin",
+  	"modPlugin":"nefja.arcticlaboratories.ArcticLaboratoriesPlugin",
 	  	"dependencies": [
         #{
         #    "id": "lw_lazylib",

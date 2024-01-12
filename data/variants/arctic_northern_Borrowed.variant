@@ -1,0 +1,50 @@
+{
+    "displayName": "Borrowed",
+    "fluxCapacitors": 14,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "arctic_northern",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "arctic_northern_Borrowed",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "sabotpod",
+                "WS 005": "sabotpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 007": "atropos",
+                "WS 004": "atropos",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "heavyburst",
+                "WS 001": "heavyburst",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

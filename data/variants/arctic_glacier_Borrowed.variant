@@ -1,0 +1,27 @@
+{
+    "displayName": "Borrowed",
+    "fluxCapacitors": 33,
+    "fluxVents": 5,
+    "goalVariant": true,
+    "hullId": "arctic_glacier",
+    "hullMods": [
+        "insulatedengine",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "arctic_glacier_Borrowed",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 001": "pdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

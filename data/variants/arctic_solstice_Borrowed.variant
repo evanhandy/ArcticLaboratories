@@ -1,0 +1,28 @@
+{
+    "displayName": "Borrowed",
+    "fluxCapacitors": 6,
+    "fluxVents": 12,
+    "goalVariant": true,
+    "hullId": "arctic_solstice",
+    "hullMods": [
+        "insulatedengine",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "arctic_solstice_Borrowed",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "pdlaser",
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 001": "pdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}
