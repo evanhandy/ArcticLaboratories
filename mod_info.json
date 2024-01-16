@@ -4,7 +4,7 @@
 	"author":"Nefja",
     "utility":"false",
 	"version":"0.0.1",
-	"description":"Starsector IntelliJ template.",
+	"description":"A faction with an Arctic theme.",
     "gameVersion": "0.96a-RC10", 
   	"jars":["jars/ArcticLaboratories.jar"],
   	"modPlugin":"nefja.arcticlaboratories.ArcticLaboratoriesPlugin",

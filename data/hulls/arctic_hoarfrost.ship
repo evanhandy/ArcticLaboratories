@@ -1,8 +1,8 @@
 {
-  "hullName": "Frost",
-  "hullId": "arctic_frost",
+  "hullName": "Hoarfrost",
+  "hullId": "arctic_hoarfrost",
   "hullSize": "DESTROYER",
-  "spriteName": "graphics/ships/arctic_frost.png",
+  "spriteName": "graphics/ships/arctic_hoarfrost.png",
   "style": "HIGH_TECH",
   "height": 154,
   "width": 164,

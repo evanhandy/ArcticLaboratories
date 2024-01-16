@@ -2,8 +2,6 @@
 	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
 	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
 	"combatSmallForSmallFleet":{
-		"arctic_snowflake_Borrowed":10,
-
 		"arctic_refrigerator_Borrowed":10,
 
 		"arctic_icicle_Borrowed":10,
@@ -11,34 +9,30 @@
 		"fallback":{"combatSmall":1},
 	},
 	"combatSmall":{
-		"arctic_snowflake_Borrowed":10,
-
 		"arctic_refrigerator_Borrowed":10,
 
 		"arctic_icicle_Borrowed":10,
 
-		"arctic_snowball_Borrowed":10,
+		"arctic_snowglobe_Borrowed":10,
 		
 		"fallback":{"combatMedium":0.5},
 	},
 	"combatMedium":{
-		"arctic_frost_Borrowed":10,
+		"arctic_hoarfrost_Borrowed":10,
 
 		"arctic_snowplow_Borrowed":10,
 		
 		"fallback":{"combatSmall":1},
 	},
 	"combatLarge":{
-		"arctic_borealis_Borrowed":10,
-
-		"arctic_gyrfalcon_Borrowed":10,
+		"arctic_frostbite_Borrowed":10,
 
 		"arctic_tundra_Borrowed":10,
 		
 		"fallback":{"combatMedium":1},
 	},
 	"combatCapital":{
-		"arctic_avalanche_Borrowed":10,
+		"arctic_iceberg_Borrowed":10,
 
 		"arctic_arcticus_Borrowed":10,
 		
@@ -73,7 +67,7 @@
 		"fallback2":{"carrierLarge":0.25},
 	},
 	"carrierMedium":{
-		"arctic_winter_Borrowed":10,
+		"arctic_snowstorm_Borrowed":10,
 		"fallback":{"carrierSmall":1},
 		"fallback2":{"carrierLarge":0.5},
 	},
@@ -96,7 +90,7 @@
 		"fallback2":{"freighterLarge":0.5},
 	},
 	"freighterLarge":{
-		"arctic_glacier_Borrowed":10,
+		"arctic_polestar_Borrowed":10,
 		"fallback":{"freighterMedium":1},
 		"fallback2":{"freighterSmall":1},
 	},

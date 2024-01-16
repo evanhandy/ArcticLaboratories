@@ -1,8 +1,8 @@
 {
-  "hullName": "Avalanche",
-  "hullId": "arctic_avalanche",
+  "hullName": "Iceberg",
+  "hullId": "arctic_iceberg",
   "hullSize": "CAPITAL_SHIP",
-  "spriteName": "graphics/ships/arctic_avalanche.png",
+  "spriteName": "graphics/ships/arctic_iceberg.png",
   "style": "HIGH_TECH",
   "height": 384,
   "width": 288,

@@ -3,14 +3,14 @@
     "fluxCapacitors": 10,
     "fluxVents": 19,
     "goalVariant": true,
-    "hullId": "arctic_winter",
+    "hullId": "arctic_snowstorm",
     "hullMods": [
         "hardenedshieldemitter",
     ],
     "permaMods": [],
     "sMods": [],
     "suppressedMods": [],
-    "variantId": "arctic_winter_Borrowed",
+    "variantId": "arctic_snowstorm_Borrowed",
     "weaponGroups": [
         {
             "autofire": true,

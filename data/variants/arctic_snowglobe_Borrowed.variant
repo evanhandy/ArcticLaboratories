@@ -1,46 +1,41 @@
 {
     "displayName": "Borrowed",
-    "fluxCapacitors": 4,
-    "fluxVents": 20,
+    "fluxCapacitors": 1,
+    "fluxVents": 10,
     "goalVariant": true,
-    "hullId": "arctic_frost",
+    "hullId": "arctic_snowglobe",
     "hullMods": [
-        "fluxdistributor",
-        "stabilizedshieldemitter",
+        "missleracks",
     ],
     "permaMods": [],
     "sMods": [],
     "suppressedMods": [],
-    "variantId": "arctic_frost_Borrowed",
+    "variantId": "arctic_snowglobe_Borrowed",
     "weaponGroups": [
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 000": "hil",
+                "WS 006": "ioncannon",
+                "WS 007": "ioncannon",
+                "WS 005": "ioncannon",
             }
         },
         {
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS 004": "sabotpod",
-                "WS 005": "sabotpod",
+                "WS 002": "gazer",
+                "WS 000": "gazer",
+                "WS 001": "gazer",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "taclaser",
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
+                "WS 004": "pdlaser",
                 "WS 003": "pdlaser",
-                "WS 001": "pdlaser",
             }
         },
     ],

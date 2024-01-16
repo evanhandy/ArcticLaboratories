@@ -1,8 +1,8 @@
 {
-  "hullName": "Gyrfalcon",
-  "hullId": "arctic_gyrfalcon",
+  "hullName": "Frostbite",
+  "hullId": "arctic_frostbite",
   "hullSize": "CRUISER",
-  "spriteName": "graphics/ships/arctic_gyrfalcon.png",
+  "spriteName": "graphics/ships/arctic_frostbite.png",
   "style": "HIGH_TECH",
   "height": 222,
   "width": 162,

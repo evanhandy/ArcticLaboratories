@@ -1,8 +1,8 @@
 {
 	"quality":1,
 	"displayName":"Interceptor Drone",
-	"hullId":"arctic_sleet",
-	"variantId":"arctic_sleet_Interceptor",
+	"hullId":"arctic_snowflake",
+	"variantId":"arctic_snowflake_Interceptor",
 	"fluxVents":0,
 	"fluxCapacitors":0,
 	"hullMods":["no_weapon_flux"], # array of strings

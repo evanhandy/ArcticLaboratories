@@ -3,7 +3,7 @@
     "fluxCapacitors": 28,
     "fluxVents": 50,
     "goalVariant": true,
-    "hullId": "arctic_avalanche",
+    "hullId": "arctic_iceberg",
     "hullMods": [
         "fluxdistributor",
         "magazines",
@@ -14,7 +14,7 @@
     "permaMods": [],
     "sMods": [],
     "suppressedMods": [],
-    "variantId": "arctic_avalanche_Borrowed",
+    "variantId": "arctic_iceberg_Borrowed",
     "weaponGroups": [
         {
             "autofire": false,

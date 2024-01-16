@@ -1,58 +1,44 @@
 {
     "displayName": "Borrowed",
-    "fluxCapacitors": 19,
+    "fluxCapacitors": 4,
     "fluxVents": 20,
     "goalVariant": true,
-    "hullId": "arctic_borealis",
+    "hullId": "arctic_hoarfrost",
     "hullMods": [
-        "auxiliarythrusters",
-        "missleracks",
+        "fluxdistributor",
         "stabilizedshieldemitter",
     ],
     "permaMods": [],
     "sMods": [],
     "suppressedMods": [],
-    "variantId": "arctic_borealis_Borrowed",
+    "variantId": "arctic_hoarfrost_Borrowed",
     "weaponGroups": [
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 009": "ionbeam",
-            }
-        },
-        {
-            "autofire": false,
-            "mode": "LINKED",
-            "weapons": {
-                "WS 006": "dragon",
+                "WS 000": "hil",
             }
         },
         {
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS 013": "gazer",
-                "WS 011": "gazer",
-                "WS 012": "gazer",
-                "WS 010": "gazer",
+                "WS 004": "sabotpod",
+                "WS 005": "sabotpod",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 008": "gravitonbeam",
-                "WS 007": "gravitonbeam",
+                "WS 002": "taclaser",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "pdlaser",
-                "WS 005": "pdlaser",
-                "WS 002": "pdlaser",
                 "WS 003": "pdlaser",
                 "WS 001": "pdlaser",
             }

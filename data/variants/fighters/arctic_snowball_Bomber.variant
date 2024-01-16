@@ -1,8 +1,8 @@
 {
 	"quality":0.5,
 	"displayName":"Bomber",
-	"hullId":"arctic_hail",
-	"variantId":"arctic_hail_Bomber",
+	"hullId":"arctic_snowball",
+	"variantId":"arctic_snowball_Bomber",
 	"fluxVents":0,
 	"fluxCapacitors":0,
 	"mods":[], # array of strings

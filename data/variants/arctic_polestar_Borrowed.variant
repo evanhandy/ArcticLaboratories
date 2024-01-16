@@ -3,14 +3,14 @@
     "fluxCapacitors": 33,
     "fluxVents": 5,
     "goalVariant": true,
-    "hullId": "arctic_glacier",
+    "hullId": "arctic_polestar",
     "hullMods": [
         "insulatedengine",
     ],
     "permaMods": [],
     "sMods": [],
     "suppressedMods": [],
-    "variantId": "arctic_glacier_Borrowed",
+    "variantId": "arctic_polestar_Borrowed",
     "weaponGroups": [
         {
             "autofire": true,

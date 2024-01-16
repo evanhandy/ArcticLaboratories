@@ -1,8 +1,8 @@
 {
-  "hullName": "Winter",
-  "hullId": "arctic_winter",
+  "hullName": "Snowstorm",
+  "hullId": "arctic_snowstorm",
   "hullSize": "CRUISER",
-  "spriteName": "graphics/ships/arctic_winter.png",
+  "spriteName": "graphics/ships/arctic_snowstorm.png",
   "style": "HIGH_TECH",
   "coversColor": "255,255,255,255",
   "height": 250,

@@ -1,8 +1,8 @@
 {
-  "hullName": "Glacier",
-  "hullId": "arctic_glacier",
+  "hullName": "Polestar",
+  "hullId": "arctic_polestar",
   "hullSize": "CAPITAL_SHIP",
-  "spriteName": "graphics/ships/arctic_glacier.png",
+  "spriteName": "graphics/ships/arctic_polestar.png",
   "style": "HIGH_TECH",
   "height": 400,
   "width": 200,
