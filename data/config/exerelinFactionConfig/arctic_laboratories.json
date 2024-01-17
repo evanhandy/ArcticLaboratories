@@ -54,8 +54,7 @@
     "startShipsSuper":[["arctic_arcticus_Borrowed"]],
     
     "startSpecialItems":[
-        # TODO Add my blueprint package here
-        [["high_tech_package", ""]],
+        [["arctic_package", ""]],
     ],
     
     "defenceStations":[

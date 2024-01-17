@@ -1,0 +1,11 @@
+{
+	"designTypeColors":{
+        "Arctic Laboratories":[220,220,220,255]
+	},
+	"graphics":{
+		"blueprint_packages":{
+			"arctic_package":"graphics/icons/cargo/arctic_package_bp.png"
+		}
+	}
+}
+
