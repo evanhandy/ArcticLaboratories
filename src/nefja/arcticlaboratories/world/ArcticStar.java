@@ -100,7 +100,8 @@ public class ArcticStar {
 
         newMarket.setPlanetConditionMarketOnly(true);
 
-        newMarket.setFactionId(Factions.NEUTRAL);
+        // Might not need this line
+        // newMarket.setFactionId(Factions.NEUTRAL);
 
         for (String condition : conditions) {
             newMarket.addCondition(condition);

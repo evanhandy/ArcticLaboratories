@@ -1,0 +1,73 @@
+{
+    "playableFaction":true,
+    "corvusCompatible":true,
+
+    "ngcTooltip":"A high-tech faction using retrofitted low and mid-tech ships.",
+
+    "rebelFleetSuffix":"Splinter Group",
+    
+    "directoryUseShortName":true,
+    
+    "marketSpawnWeight":0.75,
+     
+    "startRelationships":{ "tritachyon": 0.1, "hegemony": -0.1, "luddic_church":-0.1, "luddic_path":-0.8},
+    "morality":"good",
+    
+    "alignments":{
+        "ideological":1,
+        "technocratic":1,
+        "militarist":0.5,
+    },
+    "diplomacyTraits":["pacifist", "weak-willed", "anarchist", "lowprofile"],
+    
+    # chance of the faction being picked to send a colony expedition. Default 0 (disabled)
+    "colonyExpeditionChance":0.75,	# not really their kind of thing...? I guess
+    "colonyTargetValuator":"exerelin.campaign.colony.IndustrialColonyTargetValuator",
+    
+    "groundBattleSettings":{
+        "moraleDamageTakenMult":1.1,
+    },
+        
+    "startShipsSolo":[["arctic_icicle_Borrowed"]],
+    "startShipsCombatSmall":[
+      ["arctic_snowplow_Borrowed", "arctic_icicle_Borrowed", "arctic_snowglobe_Borrowed"],
+      ["arctic_hoarfrost_Borrowed", "arctic_snowglobe_Borrowed", "arctic_refrigerator_Borrowed"],
+    ],
+    "startShipsTradeSmall":[
+      ["arctic_freezer_Borrowed", "arctic_icicle_Borrowed", "arctic_refrigerator_Borrowed"],
+      ["arctic_freezer_Borrowed", "arctic_icicle_Borrowed", "arctic_snowglobe_Borrowed"],
+    ],
+    "startShipsCombatLarge":[
+      ["arctic_frostbite_Borrowed", "arctic_icicle_Borrowed"],
+      ["arctic_tundra_Borrowed", "arctic_snowglobe_Borrowed"],
+    ],
+    "startShipsExplorerLarge":[
+      ["arctic_northern_Borrowed", "arctic_snowplow_Borrowed", "arctic_icicle_Borrowed"],
+      ["arctic_northern_Borrowed", "arctic_hoarfrost_Borrowed", "arctic_snowglobe_Borrowed"],
+    ],
+    "startShipsTradeLarge":[
+      ["arctic_polaris_Borrowed", "arctic_solaris_Borrowed", "arctic_refrigerator_Borrowed"],
+      ["arctic_polaris_Borrowed", "arctic_solaris_Borrowed", "arctic_icicle_Borrowed"],
+    ],
+    "startShipsCarrierSmall":[["arctic_snowhawk_Borrowed", "arctic_icicle_Borrowed", "arctic_snowglobe_Borrowed"]],
+    "startShipsCarrierLarge":[["arctic_snowstorm_Borrowed", "arctic_hoarfrost_Borrowed", "arctic_icicle_Borrowed"]],
+    "startShipsSuper":[["arctic_arcticus_Borrowed"]],
+    
+    "startSpecialItems":[
+        # TODO Add my blueprint package here
+        [["high_tech_package", ""]],
+    ],
+    
+    "defenceStations":[
+        {"ids":["orbitalstation_high", "battlestation_high", "starfortress_high"]},
+    ],
+    
+    "industrySeeds":[
+        {"id":"orbitalworks", "mult":0.1},
+        {"id":"lightindustry", "mult":0.1},
+    ],
+    
+    "bonusSeeds":[
+        {"id":"nanoforge_corrupted", "count":1},
+    ],
+}
