@@ -1,8 +1,8 @@
 {
 	id:"arctic_laboratories",
 	"color":[220,220,220,255],
-	"displayName":"Arctic Laboratories",
-	"displayNameWithArticle":"Arctic Laboratories",
+	"displayName":"Arctic Labs",
+	"displayNameWithArticle":"Arctic Labs",
 	"displayNameLong":"Arctic Laboratories",
 	"displayNameLongWithArticle":"Arctic Laboratories",
 	"logo":"graphics/factions/arctic_laboratories.png",

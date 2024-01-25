@@ -12,8 +12,8 @@
 	"weaponGroups":[
 		{"mode":"LINKED",
 		 "weapons":{
-		 			"WS 001":"lightmg",
-		 			"WS 002":"lightmg",
+		 			"WS 001":"arctic_light_sl",
+		 			"WS 002":"arctic_light_sl",
 		 		   },
 		},
 		{"mode":"LINKED",

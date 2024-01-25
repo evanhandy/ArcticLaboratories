@@ -1,7 +1,9 @@
 {
-	"id":"arctic_reaper_torp",
+	"id":"arctic_freon_torp",
 	"specClass":"missile",
 	"missileType":"ROCKET",
+	"onHitEffect":"nefja.arcticlaboratories.combat.ArcticCryoblasterEffect", # These aren't really supposed to be here
+    "onFireEffect":"nefja.arcticlaboratories.combat.ArcticCryoblasterEffect", # Same with this, but I made it work
 	#"sprite":"graphics/missiles/arctic_missile_torpedo.png",
 	#"size":[16,28],	
 	#"center":[8,14],

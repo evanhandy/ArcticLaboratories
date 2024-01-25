@@ -13,13 +13,13 @@
 	"weaponGroups":[
 		{"mode":"LINKED",
 		 "weapons":{
-		 			"WS 001":"pdlaser",
+		 			"WS 001":"arctic_ss_emitter",
 		 			#"WS 002":"pdburst",
 		 		   },
 		},
 		{"mode":"LINKED",
 		 "weapons":{
-		 			"WS 002":"fragbomb",
+		 			"WS 002":"arctic_eye_single",
 		 		   },
 		},
 	],

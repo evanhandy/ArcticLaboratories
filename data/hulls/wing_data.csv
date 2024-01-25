@@ -1,28 +1,8 @@
 id,variant,tags,tier,rarity,fleet pts,op cost,formation,range,attackRunRange,attackPositionOffset,num,role,role desc,refit,base value,,,,,,,,,,,,,number
 arctic_snow_wing,arctic_snow_Fighter,"fighter4, fighter, arctic, arctic_bp",0,,6,8,V,4000,500,,3,FIGHTER,Heavy Fighter,10,6000,,,,,,,,,,,,,1
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-arctic_snowflake_wing,arctic_snowflake_Interceptor,"interceptor3, interceptor, arctic, arctic_bp, auto_fighter",1,,5,5,CLAW,4000,200,700,6,INTERCEPTOR,Interceptor Drone,5,6000,,,,,,,,,,,,,7
+arctic_snowflake_wing,arctic_snowflake_Interceptor,"interceptor3, interceptor, arctic, arctic_bp, auto_fighter",1,,5,12,CLAW,4000,200,700,6,INTERCEPTOR,Interceptor Drone,5,6000,,,,,,,,,,,,,7
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,8
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,9
-arctic_snowball_wing,arctic_snowball_Bomber,"bomber3, bomber, arctic, arctic_bp",1,,5,10,CLAW,4000,2500,300,3,BOMBER,Bomber,15,6000,,,,,,,,,,,,,12
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,30
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,31
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,32
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,33
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,34
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,35
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,36
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,37
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,38
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,39
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,40
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,41
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,42
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,43
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,44
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,45
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,46
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,47
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,48
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,49
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,50
+arctic_snowball_wing,arctic_snowball_Bomber,"bomber3, bomber, arctic, arctic_bp",1,,5,10,CLAW,4000,2500,300,1,BOMBER,Bomber,15,6000,,,,,,,,,,,,,12
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+arctic_icepick_drone_wing,arctic_icepick_drone_Standard,"stay_in_front_of_ship, support0, drone,arctic_bp, auto_fighter, arctic",0,,5,0,BOX,0,500,,4,SUPPORT,Drone,10,1500,,17,,,,,,,,,,,

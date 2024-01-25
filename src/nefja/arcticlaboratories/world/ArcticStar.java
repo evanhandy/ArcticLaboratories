@@ -14,6 +14,9 @@ import java.awt.*;
 public class ArcticStar {
 
     public void generate(SectorAPI sector) {
+        // Used for adding markets to the economy
+        EconomyAPI globalEconomy = sector.getEconomy();
+
         StarSystemAPI system = sector.createStarSystem("Arctic Star");
 
         PlanetAPI star = system.initStar(
@@ -24,8 +27,6 @@ public class ArcticStar {
                 -9400,
                 100
         );
-
-        EconomyAPI globalEconomy = Global.getSector().getEconomy();
 
         PlanetAPI arcticVolatilePlanet = system.addPlanet(
                 "arctic_volatile",
@@ -38,13 +39,14 @@ public class ArcticStar {
                 120
         );
 
+        // Give the planet hab_glows
         arcticVolatilePlanet.getSpec().setGlowTexture(Global.getSettings().getSpriteName("hab_glows", "volturn"));
         arcticVolatilePlanet.getSpec().setGlowColor(new Color(250,225,195,255));
         arcticVolatilePlanet.getSpec().setUseReverseLightForGlow(true);
         arcticVolatilePlanet.applySpecChanges();
         arcticVolatilePlanet.setFaction("arctic_laboratories");
 
-
+        // Set up the market
         Misc.initConditionMarket(arcticVolatilePlanet);
 
         String[] arcticVolatileConditions = {Conditions.VOLATILES_PLENTIFUL, Conditions.HIGH_GRAVITY, Conditions.DENSE_ATMOSPHERE, Conditions.POPULATION_6};

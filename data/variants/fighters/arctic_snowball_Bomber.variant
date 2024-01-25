@@ -12,12 +12,12 @@
 	"weaponGroups":[
 		{"mode":"LINKED",
 		 "weapons":{
-		 			"WS 001":"bomb",
+		 			#"WS 001":"bomb",
 		 		   },
 		},
 		{"mode":"LINKED",
 		 "weapons":{
-		 			#"WS 002":"lightmg",
+		 			"WS 001":"arctic_freon",
 		 			#"WS 002":"vulcan",
 		 		   },
 		},

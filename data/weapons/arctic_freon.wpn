@@ -1,10 +1,10 @@
 {
-	"id":"arctic_reaper",
+	"id":"arctic_freon",
 	"specClass":"projectile",
 	"type":"MISSILE",
 	"size":"SMALL",
-	"turretSprite":"graphics/weapons/arctic_light_reaper_launcher_turret_base.png",
-	"hardpointSprite":"graphics/weapons/arctic_light_reaper_launcher_hardpoint_base.png",
+	"turretSprite":"graphics/weapons/arctic_light_freon_launcher_turret_base.png",
+	"hardpointSprite":"graphics/weapons/arctic_light_freon_launcher_hardpoint_base.png",
 	"hardpointOffsets":[10, 0],
 	"turretOffsets":[7, 0],
 	"hardpointAngleOffsets":[0],
@@ -24,7 +24,7 @@
 				 "blowbackLength":22.0,
 				 "blowbackSpread":15.0,
 				 "particleColor":[25,15,125,105]},
-	"projectileSpecId":"arctic_reaper_torp",
+	"projectileSpecId":"arctic_freon_torp",
 	"fireSoundTwo":"reaper_fire",
 }
 
