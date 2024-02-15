@@ -8,7 +8,7 @@ First, make sure you have the latest version of StarSector (they've been updatin
 
 After installing StarSector, start with this forum post: https://fractalsoftworks.com/forum/index.php?topic=25974.0
 
-After reading, understanding, and following those instructions, download an additional mod by going to this forum post and clicking on the first main image (the mod will help with showcasing my mod): https://fractalsoftworks.com/forum/index.php?topic=21591.0
+After reading, understanding, and following those instructions (for the additional RAM allocation, I use 4GB), download an additional mod by going to this forum post and clicking on the first main image (the mod will help with showcasing my mod): https://fractalsoftworks.com/forum/index.php?topic=21591.0
 
 Next, you'll have to install (unzip) the mod and change the mod_info.json file of that mod, so it will run with the latest version of StarSector. If you're on Windows, you can do this by going to "C:\Program Files (x86)\Fractal Softworks\Starsector" (assuming you installed the base game in the default location), opening the mods folder, extracting your downloaded mod folder into that folder (making sure to follow the instructions in the mod guide forum post from earlier for keeping the folder structure intact), then selecting the freshly extracted "SCVE-v1.8.2" folder. Inside the mod_info.json file, change line 8 (where it says gameVersion) to be "gameVersion":"0.97a" if it doesn't say some variant of "0.97a" already. Remember to keep a comma at the end of the line.
 
